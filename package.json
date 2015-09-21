@@ -25,9 +25,6 @@
   ],
   "author": "Loïc CHOLLIER <loic@chollier.com>",
   "license": "MIT",
-  "peerDependencies": {
-    "react": ">=0.12"
-  },
   "jest": {
     "scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
     "unmockedModulePathPatterns": [
